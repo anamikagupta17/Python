@@ -1,0 +1,12 @@
+from datetime import datetime
+dt=datetime.today()
+print(dt)
+print()
+newd1=dt.strftime("%Y-%m-%d %A")
+print(newd1)
+newd2=dt.strftime("%d-%b-%Y")
+print(newd2)
+newd3=dt.strftime("%d-%b-%Y %H:%M:%S")
+print(newd3)
+newd4=dt.strftime("%d-%m-%Y %I:%M:%S")
+print(newd4)
