@@ -9,7 +9,7 @@ opps(object oriended method)(we can say it is a structure or model)
 4.Polymorphism: one things used for many functioanlity 
 eg : different input will give different output using a single function
 
-we can these all are 4 pillers of oops
+we can say these all are 4 pillers of oops
 
 class : group of attributes(variables) and mehtods(function)
 eg: class Classname(object): object is optional(by default it will be there) ,object is base class(super class/parent class)

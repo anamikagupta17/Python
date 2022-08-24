@@ -1,0 +1,1 @@
+ls=[{"name":"abc","roll":10},{'name':"dfdfd","roll":5},{"name":"ffdsfsd","roll_no":10,"rank":"B"},{"roll_no":10,"class":"fd"}]
